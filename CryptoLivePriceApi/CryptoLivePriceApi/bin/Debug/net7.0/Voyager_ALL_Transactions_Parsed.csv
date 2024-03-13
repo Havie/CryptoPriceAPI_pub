@@ -1,0 +1,15 @@
+Timestamp (UTC),Type,InternalID,Platform,PlatformID,BlockchainID,RecordType,Asset,Amount,AssetCostAtTime (in USD),CostBasis
+5/2/2021 11:39,Deposit,7971,Voyager,,,Credit,ADA,100,,0
+9/12/2021 1:38,Fiat Sell,7972,Voyager,,,Debit,ADA,-20,,0
+9/11/2021 1:58,Fiat Sell,7973,Voyager,,,Credit,USD,47.83,,0
+9/11/2021 1:59,Fiat Sell,8971,Voyager,,,Debit,ADA,-80,,0
+9/11/2021 1:59,Fiat Sell,8921,Voyager,,,Credit,USD,191.25,,0
+9/11/2021 2:00,Fiat Buy,45771,Voyager,,,Debit,USD,-200,,0
+9/11/2021 2:00,Fiat Buy,567971,Voyager,,,Credit,ALGO,19.3074086,,0
+9/11/2021 2:02,Fiat Sell,787971,Voyager,,,Debit,ADA,-100,,0
+6/4/2023 8:42,Bankruptcy Recovery,877971,Voyager,,,Debit,SRM,-15.535,,0
+6/4/2023 8:42,Bankruptcy Recovery,5617971,Voyager,,,Credit,SRM,15.6,,0
+6/10/2023 22:41,Bankruptcy Liquidation,6657971,Voyager,,,Debit,ALGO,-9.59,,0
+6/10/2023 22:41,Bankruptcy Liquidation,12337971,Voyager,,,Credit,USDC,2.12,,0
+8/31/2023 2:55,Bankruptcy Liquidation,43557971,Voyager,,,Debit,SRM,-15.6,,0
+8/31/2023 4:51,Bankruptcy Liquidation,45667971,Voyager,,,Credit,USD,0.76,,0
