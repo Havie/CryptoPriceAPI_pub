@@ -1,6 +1,6 @@
 # CryptoAPI
-A simple hacky **.NET** application I wrote in an afternoon that can parse a CSV file and fill the price for a given date for a crypto currency and USD.
-It uses an API call to yahoo finance which I adapted from a python tutorial.
+A simple hacky **.NET** application I wrote in an afternoon that can parse a **CSV** file and fill the price for a given date for a crypto currency and USD.
+It uses an API call to _ _yahoo finance_ _ which I adapted from a python tutorial.
 
 **This app is by no means robust or complete but it works for what I needed it to and was pretty fun. I may turn this into something someday.**
 
