@@ -10,6 +10,6 @@ it finds its **UTC Time** for each entry and fills in the **Price in USD** at th
 
 It also supports multiple csv's with the same rigid format, just need to add them to the array at the top of the program.cs
 
-Also makes us of the nuget packages:
+Also makes use of the nuget packages:
 * CsvHelper
 * Newtonsoft.Json
